@@ -37,7 +37,7 @@ int array_Bfind(int array[],int size , int key)
 	
 }
 
-	void array_bubble(arr[],int size)
+	void array_bubble(int arr[],int size)
 	{
 		for (int i=0 ; i <size-1 ; i++ )
 	{
